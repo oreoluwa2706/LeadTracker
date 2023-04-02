@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "version": "1.1K",
+  "name": "Leads tracker",
+  "action": {
+    "default_popup": "chrome_extension.html",
+    "default_icon": "./imagee/icons8-us-dollar-circled-50.png"
+  }
+}
